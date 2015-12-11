@@ -3,8 +3,9 @@
 tools=Tools
 config=config
 
-./execute.sh trigram $config/moses.ini
-./execute.sh trigram_opt $config/moses_opt.ini
+./execute.sh nc_3g $config/moses_nc_3g.ini
+./execute.sh nc_3g_opt $config/moses_nc_3g_opt.ini
 
-./execute.sh 4gram $config/moses4.ini
+./execute.sh nc_4g $config/moses_nc_4g.ini
 
+./execute.sh ep_3g $config/moses_ep_3g.ini
