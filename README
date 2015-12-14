@@ -3,3 +3,5 @@
     - Le dossier "traduction_automatique" contenant les librairies utilisées
     - Un dossier "results" dans lequel les résultats seront écrits
     - Pour le corpus ted, il faut générer le modèle de langue, en lançant le script generateModel.sh dans le dossier Model
+    
+Puis lancer launch.sh
