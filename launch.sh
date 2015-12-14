@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Avant de lancer ce script, générer le modèle de langue pour le corpus ted avec le script Model/generateModel.sh
+
 tools=Tools
 config=config
 
