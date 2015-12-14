@@ -9,3 +9,5 @@ config=config
 ./execute.sh nc_4g $config/moses_nc_4g.ini
 
 ./execute.sh ep_3g $config/moses_ep_3g.ini
+
+./execute.sh ted_3g $config/moses_ted_3g.ini
